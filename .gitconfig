@@ -1,0 +1,6 @@
+[user]
+	mail = other@gmail.com
+	name = other
+	email = other@gmail.com
+[core]
+	editor = nano
