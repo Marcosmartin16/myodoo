@@ -53,3 +53,33 @@ git commit -am "11"
 pwd
 ls -a
 exit
+git init
+git add .
+more .gitconfig 
+git commit -am "..."
+cd /opt/
+ls -a
+ls -a /
+git config user.mail "other@gmail.com"
+git config --global user.mail "other@gmail.com"
+git config --global user.email "other@gmail.com"
+git config --global user.name "other"
+git commit -am "..."
+cd odoo/
+ls -a
+more .gitconfig 
+git commit -am "..."
+git log 
+git branch
+git remote add origin https://github.com/Marcosmartin16/myodoo.git
+git remote -v
+git push origin master
+whoami
+who
+w
+mkdir dumps
+exit
+ls
+mkdir dumps
+ls
+exit

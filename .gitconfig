@@ -4,3 +4,5 @@
 	email = other@gmail.com
 [core]
 	editor = nano
+[credential]
+	helper = store

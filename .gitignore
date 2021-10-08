@@ -1,0 +1,4 @@
+#excluimos del control de versines de github
+.gnupg/
+.gitlocal/
+.git.credentials
