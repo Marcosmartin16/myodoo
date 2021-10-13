@@ -83,3 +83,23 @@ ls
 mkdir dumps
 ls
 exit
+whoami
+ls - a
+ls -a
+more .gitconfig
+git config --globalcredential.helper store
+git config --global credential.helper store
+more .gitconfig
+nano .gitignore
+git status
+git add .
+ls
+git commit -am "subiendo la database encriptada"
+git log
+pwd
+ls
+git push origin master
+exit
+git log
+gpg -c backup_db1.zip
+exit
